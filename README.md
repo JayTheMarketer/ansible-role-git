@@ -52,4 +52,4 @@ APL2.0
 
 ## Author Information
 
-This role was created in 2018 by [JayTheMarketer](https://linkedin.com/in/JayTheMarketer), a Marketing Technology Consultant for [Bulldog Solutions](https://bulldogsolutions.com/).
+This role was created in 2018 by [JayTheMarketer](https://linkedin.com/in/JayTheMarketer), a Marketing Technology Consultant for [Bulldog Solutions](https://www.bulldogsolutions.com/).
