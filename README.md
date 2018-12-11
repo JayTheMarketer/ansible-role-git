@@ -48,7 +48,7 @@ None.
 
 ## License
 
-APL2.0
+Apache 2.0
 
 ## Author Information
 

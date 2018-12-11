@@ -3,6 +3,7 @@ dependencies: []
 
 galaxy_info:
   author: JayTheMarketer
+  role_name: git
   description: Git version control software
   company: "sparkDEMAND, LLC"
   license: "Apache 2.0"
